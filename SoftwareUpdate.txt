@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add missing Explorer docs reference pages (#7455)
