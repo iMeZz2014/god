@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
