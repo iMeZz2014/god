@@ -1,1 +1,1 @@
-Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
